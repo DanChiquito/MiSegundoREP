@@ -13,8 +13,13 @@ namespace VideoJuego
     {
         string[] misdatos = new string[3];
 
+        public struct Trabajo
+        {
+
+        }
         public struct Adquisicion
         {
+            
             public string compra;
             public string disponibilidad;
             public int total;
