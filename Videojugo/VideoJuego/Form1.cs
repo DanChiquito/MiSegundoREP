@@ -15,7 +15,7 @@ namespace VideoJuego
 
         public struct Trabajo
         {
-
+            public int entero
         }
         public struct Adquisicion
         {
