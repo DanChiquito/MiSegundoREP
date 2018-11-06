@@ -1,0 +1,10 @@
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\bin\Debug\VideoJuego.exe.config
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\bin\Debug\VideoJuego.exe
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\bin\Debug\VideoJuego.pdb
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\obj\Debug\VideoJuego.csprojAssemblyReference.cache
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\obj\Debug\VideoJuego.Form1.resources
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\obj\Debug\VideoJuego.Properties.Resources.resources
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\obj\Debug\VideoJuego.csproj.GenerateResource.cache
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\obj\Debug\VideoJuego.csproj.CoreCompileInputs.cache
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\obj\Debug\VideoJuego.exe
+C:\Users\chico\OneDrive\Desktop\Videojugo\VideoJuego\obj\Debug\VideoJuego.pdb
